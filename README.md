@@ -1,7 +1,7 @@
 JMX Made Easy
 =============
 
-**A set of utility classes which simplify publishing of annotated java POJOs through JMX.**
+A set of utility classes which simplify publishing of annotated java POJOs through JMX.
 
 Now publishing of POJOs is easy:
 
