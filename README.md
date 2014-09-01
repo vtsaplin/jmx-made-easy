@@ -75,3 +75,5 @@ private static class TestBeanImpl implements TestBean {
 
 }
 ```
+
+Happy publishing!
